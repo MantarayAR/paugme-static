@@ -7,7 +7,7 @@ Static Assets for Paugme
 
 Example RawGit Link:
 
-https://cdn.rawgit.com/MantarayAR/paugme-static/0.1.0/images/table.jpg
+https://cdn.jsdelivr.net/gh/MantarayAR/paugme-static@0.1.0/images/table.jpg
 
 * 0.1.0 - the tag name
 * image/table.jpg - the path to the file
